@@ -1,7 +1,12 @@
 TEMPLATE = app
-TARGET = 
-DEPENDPATH += . gui
-INCLUDEPATH += . gui
+#TARGET = QMAKE_LFLAGS_WINDOWS
+#DEPENDPATH += . gui
+#INCLUDEPATH += . gui
+
+QT += widgets
+QT += gui
+QT += core
+
 OBJECTS_DIR = build/obj
 MOC_DIR = build/moc
 RCC_DIR = build/rcc

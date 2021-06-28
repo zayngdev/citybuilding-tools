@@ -1,8 +1,11 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QMainWindow>
+//#include <QWidgets/QMainWindow>
 #include <QtGui> // TODO: specify
+#include <QtWidgets/QMainWindow>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QTreeWidget>
 
 #include "sgfile.h"
 #include "sgimage.h"

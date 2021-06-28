@@ -4,6 +4,7 @@
 #include "helpdialog.h"
 #include "licencedialog.h"
 #include "gui/extractwizard.h"
+#include <QtWidgets>
 
 MainWindow::MainWindow()
 	: QMainWindow(), appname("SGReader")

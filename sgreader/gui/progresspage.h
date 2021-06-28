@@ -1,10 +1,10 @@
 #ifndef PROGRESSPAGE_H
 #define PROGRESSPAGE_H
 
-#include <QWizardPage>
-#include <QProgressBar>
-#include <QLabel>
-#include <QTextEdit>
+#include <QtWidgets/QWizardPage>
+#include <QtWidgets/QProgressBar>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QTextEdit>
 
 class ExtractThread;
 

@@ -1,6 +1,7 @@
 #include "outputdirpage.h"
 
 #include <QtGui> // todo: optimize
+#include <QtWidgets>
 
 OutputDirPage::OutputDirPage(QWidget *parent)
 	: QWizardPage(parent)

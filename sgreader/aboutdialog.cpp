@@ -19,6 +19,8 @@
 #include "aboutdialog.h"
 #include <QtGui>
 #include <QGridLayout>
+#include <QtWidgets>
+
 
 AboutDialog::AboutDialog(QWidget *parent,
 	const QString &appname, const QString &version,

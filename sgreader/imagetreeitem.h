@@ -3,7 +3,7 @@
 
 #include "sgimage.h"
 
-#include <QTreeWidgetItem>
+#include <QtWidgets/QTreeWidgetItem>
 #include <QString>
 
 class ImageTreeItem : public QTreeWidgetItem {

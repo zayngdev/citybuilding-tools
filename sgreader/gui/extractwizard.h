@@ -1,7 +1,7 @@
 #ifndef EXTRACTWIZARD_H
 #define EXTRACTWIZARD_H
 
-#include <QWizard>
+#include <QtWidgets/QWizard>
 #include <QString>
 #include <QStringList>
 

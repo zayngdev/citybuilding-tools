@@ -1,3 +1,9 @@
 build
 .kdev4
 *.kdev4
+sgreader/.vs/sgreader/v16/.suo
+sgreader/.vs/sgreader/v16/Browse.VC.db
+sgreader/.vs/sgreader/v16/Browse.VC.db-shm
+sgreader/.vs/sgreader/v16/Browse.VC.db-wal
+sgreader/.vs/sgreader/v16/Browse.VC.opendb
+sgreader/.vs/sgreader/v16/ipch/AutoPCH/c08caf6e848ac0d5/INPUTDIRPAGE.ipch

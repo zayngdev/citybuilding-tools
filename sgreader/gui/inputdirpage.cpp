@@ -1,6 +1,9 @@
 #include "inputdirpage.h"
 
 #include <QtGui> // TODO: specify
+#include <qlabel.h>
+#include <qlabel.h>
+#include <QtWidgets>
 
 InputDirPage::InputDirPage(QWidget *parent)
 	: QWizardPage(parent)

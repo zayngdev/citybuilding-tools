@@ -1,6 +1,7 @@
 #include "filelistpage.h"
 
 #include <QtGui> // TODO: optimize
+#include <QtWidgets>
 
 FileListPage::FileListPage(QWidget *parent)
 	: QWizardPage(parent)

@@ -18,10 +18,10 @@
  */
 #include "helpdialog.h"
 
-#include <QTextEdit>
-#include <QPushButton>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
+#include <QtWidgets/QTextEdit>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QVBoxLayout>
+#include <QtWidgets/QHBoxLayout>
 #include <QFont>
 
 HelpDialog::HelpDialog(QWidget *parent, const QString &appname)

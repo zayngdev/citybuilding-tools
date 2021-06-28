@@ -19,7 +19,7 @@
 #ifndef LICENCEDIALOG_H
 #define LICENCEDIALOG_H
 
-#include <QDialog>
+#include <QtWidgets/QDialog>
 #include <QString>
 
 class LicenceDialog : public QDialog {
